@@ -19,4 +19,4 @@ The purpose of this service is to handle notifications in a resilient and config
     - Enable or disable providers and channels.
     - Set priorities for providers and channels.
 
-![Design Idea](idea.png)
+![Design Idea](idea.png.png)
