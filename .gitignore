@@ -1,0 +1,15 @@
+
+*.dll
+/Notifier.Lambda.Infrastructure.Tests/obj
+/Notifier.Lambda.Infrastructure/bin
+/Notifier.Lambda.Infrastructure/obj
+*.user
+/Notifier.Lambda.Infrastructure.Tests/bin
+/Notifier.Lambda.Domain/obj
+/Notifier.Lambda.Domain.Tests/obj
+/Notifier.Lambda.Domain.Tests/bin
+/Notifier.Lambda.Domain/bin
+/Notifier/src/Notifier.Lambda/bin
+/Notifier/src/Notifier.Lambda/obj
+/Notifier/test/Notifier.Lambda.Tests/obj
+/Notifier/test/Notifier.Lambda.Tests/bin
