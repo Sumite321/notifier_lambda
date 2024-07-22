@@ -17,9 +17,10 @@
         <PackageReference Include="xunit.runner.visualstudio" Version="2.5.3" />
     </ItemGroup>
     <ItemGroup>
-      <ProjectReference Include="..\Notifier\src\Notifier.Lambda\Notifier.Lambda.csproj" />
+      <ProjectReference Include="..\Notifier.Lambda.Domain\Notifier.Lambda.Domain.csproj" />
+      <ProjectReference Include="..\Notifier.Lambda\Notifier.Lambda.csproj" />
     </ItemGroup>
     <ItemGroup>
-      <ProjectReference Include="..\Notifier\src\Notifier.Lambda\Notifier.Lambda.csproj" />
+      <ProjectReference Include="..\Notifier.Lambda\Notifier.Lambda.csproj" />
     </ItemGroup>
 </Project>

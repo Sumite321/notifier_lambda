@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notifier.Lambda", "Notifier\src\Notifier.Lambda\Notifier.Lambda.csproj", "{5B15EE4A-7D26-4B57-BBA3-714E7A2F01C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notifier.Lambda", "Notifier.Lambda\Notifier.Lambda.csproj", "{5B15EE4A-7D26-4B57-BBA3-714E7A2F01C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifier.Lambda.Tests", "Notifier\test\Notifier.Lambda.Tests\Notifier.Lambda.Tests.csproj", "{A9E9ED84-9798-4474-85F1-C2EA1F211F7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifier.Lambda.Tests", "Notifier.Lambda.Tests\Notifier.Lambda.Tests.csproj", "{A9E9ED84-9798-4474-85F1-C2EA1F211F7C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifier.Lambda.Infrastructure", "Notifier.Lambda.Infrastructure\Notifier.Lambda.Infrastructure.csproj", "{92EBB5A5-7D9B-4C21-B2BD-2E0896310918}"
 EndProject

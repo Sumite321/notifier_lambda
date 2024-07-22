@@ -13,3 +13,8 @@
 /Notifier/src/Notifier.Lambda/obj
 /Notifier/test/Notifier.Lambda.Tests/obj
 /Notifier/test/Notifier.Lambda.Tests/bin
+/.idea
+/Notifier.Lambda.Tests/bin
+/Notifier.Lambda.Tests/obj
+/Notifier.Lambda/bin
+/Notifier.Lambda/obj
